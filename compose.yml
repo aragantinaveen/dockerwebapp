@@ -3,7 +3,7 @@ version: "3"
 services:
  database:
    container_name: devopsdb
-   image: aragantinaveen/project2:facebookbd
+   image: aragantinaveen/project2:facebookdb
    ports:
      - "3306:3306"
 
